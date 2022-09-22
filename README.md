@@ -55,7 +55,7 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
 
