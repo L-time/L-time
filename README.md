@@ -1,4 +1,4 @@
-<div style="text-align:center;border-radius:50%;overflow:hidden"><img src="img/Logo.jpg" width="175px"></div>
+<div style="text-align:center; width:175px;height: 170px;border-radius:50%;overflow:hidden"><img src="img/Logo.jpg" alt=""></div>
 <hr>
 
 #### Welcome to my Github🎉
