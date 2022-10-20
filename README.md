@@ -9,7 +9,7 @@
 
 # 用逻辑建构世界 🖥️
 
-# 你是第 ![:name](https://count.getloli.com/get/@:name) 位访客！
+# 你是第 ![:name](https://count.getloli.com/get/@Ltime) 位访客！
 
 ## 关于自己 🙋‍♂️
 
