@@ -7,7 +7,7 @@
 
 </div>
 
-# 用逻辑建构世界 🖥️
+# 借以不长的时光，赋予其值得铭记的事迹
 
 # 你是第 ![:name](https://count.getloli.com/get/@Ltime) 位访客！
 
@@ -16,7 +16,7 @@
 - 一名某高校CS专业练习生（不会唱、跳、rap、篮球）。
 - 并没有任何技术可言。
 - 高等数学，狗都不学。
-- 个人Blog ：Building……
+- 个人Blog ：Building……（预计马上上线啦——）
 - 个人网站 ：Building……
 
 ## 技能 🛠
