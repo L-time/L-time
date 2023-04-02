@@ -1,78 +1,57 @@
-<div><img src="img/profile.png" width="20%" alt="">
-<img height="32%" align="right" src="https://github-readme-stats.vercel.app/api?username=L-time&show_icons=true&theme=blueberry" ></a>
-</div>
-<br></br>
-
-<div>
-
-</div>
-
-# -没了-
-
-# 你是第 ![:name](https://count.getloli.com/get/@Ltime) 位访客！
-
-## 关于自己 🙋‍♂️
-
-- 一名某高校CS专业练习生（不会唱、跳、rap、篮球）。
-- 并没有任何技术可言。
-- 个人Blog ：Building……（预计马上上线啦——）
-- 个人网站 ：Building……
-
-## 技能 🛠
-
-<table><tr><td valign="top" width="33%">
 
 
+# Leave_Time
 
-### 正在学习
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+<a title="github" target="_blank" href="https://github.com/L-time"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DL-time&labelColor=282c34&color=353940&logo=github&longCache=true&style=for-the-badge" ></a><a title="bilibili" target="_blank" href="https://space.bilibili.com/349243695"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D45354105&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true&style=for-the-badge" ></a>
 
 
+## Who?
+<img align="right" src="https://mc-heads.net/head/Leave_Time" alt="Leave_Time">
 
-### 准备学习
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</div>
+- 学生？
+- 老师？
+- 互联网宅宅？
+- 只想睡觉的废物？
+- And more……？
 
-</td>
+## What?
 
+- 开发工具当然首选：[![JETBRAINS](https://img.shields.io/badge/-Jetbrains-black?logo=JetBrains&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/)
 
+- 偶尔用用[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
 
-</table>  
+- 必不可少[![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/)
 
-<br/>  
+- 技术栈？
+	
+	- 这些很熟：
+	  [![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)[![Go](https://img.shields.io/badge/-Go-5dc9e2?logo=Go&logoColor=fff&style=for-the-badge)](https://golang.google.cn/)
+	
+	- 这些不熟：[![C++](https://img.shields.io/badge/-C++-048?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://cplusplus.com/) [![JavaScript](https://img.shields.io/badge/-JavaScript-fcdc00?logo=javascript&logoColor=fff&style=for-the-badge)](https://www.javascript.com/)
+	
+	- 还没接触过……未来再补充吧₍˄·͈༝·͈˄*₎◞ ̑̑
 
-## 展示自己✔️
+## Some Interesting？
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=L-time" /> </div>
+### 想挂点Repo：
 
-<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-time&repo=riichi_go&theme=github_dark_dimmed&locale=cn)](https://github.com/L-time/riichi_go)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-time&layout=compact&theme=blueberry" /> <div>
+### 访客统计？（猫猫还是很可爱的）
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=L-time&theme=github" /> </div>
+![:name](https://count.getloli.com/get/@Ltime)
+
+### 总体：
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=L-time&count_private=true&theme=github_dark_dimmed&locale=cn" /> </div>
 
 
 
 
+### 常用语言：
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-time&layout=compact&theme=blueberry&locale=cn" /> </div>
+
+
+### 时间统计
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L_Time&layout=compact&theme=github_dark_dimmed&locale=cn /> </div>
