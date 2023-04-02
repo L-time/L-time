@@ -9,18 +9,18 @@
 <img align="right" src="https://mc-heads.net/head/Leave_Time" alt="Leave_Time">
 
 - 学生？
-- 老师？
+- ~~老师？~~
 - 互联网宅宅？
 - 只想睡觉的废物？
+- 喜欢玩Minecraft？
 - And more……？
 
 ## What?
 
-- 开发工具当然首选：[![JETBRAINS](https://img.shields.io/badge/-Jetbrains-black?logo=JetBrains&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/)
+- 工具：
 
-- 偶尔用用[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
+[![JETBRAINS](https://img.shields.io/badge/-Jetbrains-black?logo=JetBrains&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/) [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/) [![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/) [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-black?logo=windowsterminal&logoColor=fff&style=for-the-badge)](https://github.com/microsoft/terminal)
 
-- 必不可少[![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/)
 
 - 技术栈？
 	
@@ -39,7 +39,11 @@
 
 ### 访客统计？（猫猫还是很可爱的）
 
-![:name](https://count.getloli.com/get/@Ltime)
+<div align="center"> 
+    <a href="https://github.com/L-time">
+    <img src="https://count.getloli.com/get/@Ltime" /> 
+    </a>
+</div>
 
 ### 总体：
 
