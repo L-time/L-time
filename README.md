@@ -54,4 +54,8 @@
 
 
 ### 时间统计
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L_Time&theme=github_dark_dimmed&locale=cn"/> </div>
+<div align="center"> 
+    <a herf="https://wakatime.com/@L_time">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L_Time&theme=github_dark_dimmed&locale=cn"/> 
+    </a>
+</div>
