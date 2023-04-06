@@ -109,7 +109,12 @@ This README:Ltime, this is my editor.
 	- 这些不熟：[![C++](https://img.shields.io/badge/-C++-048?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://cplusplus.com/) [![JavaScript](https://img.shields.io/badge/-JavaScript-fcdc00?logo=javascript&logoColor=fff&style=for-the-badge)](https://www.javascript.com/)
 	
 	- 还没接触过……未来再补充吧₍˄·͈༝·͈˄*₎◞ ̑̑
+	
+	```
+	  /)　/)
+	c(　╹^╹)σ[Star]
 
+	```
 ## Some Interesting？
 
 ### 想挂点Repo：
