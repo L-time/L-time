@@ -119,7 +119,7 @@ This README:Ltime, this is my editor.
 
 ### 想挂点Repo：
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-time&repo=riichi_go&theme=github_dark_dimmed&locale=cn)](https://github.com/L-time/riichi_go)
+**这里没有东西哦？等等再来吧？**
 
 ### 访客统计？（猫猫还是很可爱的）
 
