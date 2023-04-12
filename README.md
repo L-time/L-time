@@ -104,9 +104,12 @@ This README:Ltime, this is my editor.
 - 技术栈？
 	
 	- 这些很熟：
-	  [![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)[![Go](https://img.shields.io/badge/-Go-5dc9e2?logo=Go&logoColor=fff&style=for-the-badge)](https://golang.google.cn/)
 	
-	- 这些不熟：[![C++](https://img.shields.io/badge/-C++-048?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://cplusplus.com/) [![JavaScript](https://img.shields.io/badge/-JavaScript-fcdc00?logo=javascript&logoColor=fff&style=for-the-badge)](https://www.javascript.com/)
+	  [![Python](https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/) [![Go](https://img.shields.io/badge/-Go-5dc9e2?logo=Go&logoColor=fff&style=for-the-badge)](https://golang.google.cn/)
+	
+	- 这些不熟：
+	
+	  [![C++](https://img.shields.io/badge/-C++-048?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://cplusplus.com/) [![JavaScript](https://img.shields.io/badge/-JavaScript-fcdc00?logo=javascript&logoColor=fff&style=for-the-badge)](https://www.javascript.com/)
 	
 	- 还没接触过……未来再补充吧₍˄·͈༝·͈˄*₎◞ ̑̑
 	
