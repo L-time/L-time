@@ -96,7 +96,7 @@ This file: Ltime, this is my editor.
 
 ## What?
 
-- 工具：
+- 常用的工具：
 
 [![JETBRAINS](https://img.shields.io/badge/-Jetbrains-black?logo=JetBrains&logoColor=fff&style=for-the-badge)](https://www.jetbrains.com/) [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visual-studio-code&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/) [![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/) [![Windows Terminal](https://img.shields.io/badge/-Windows_Terminal-black?logo=windowsterminal&logoColor=fff&style=for-the-badge)](https://github.com/microsoft/terminal)
 
