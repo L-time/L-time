@@ -74,6 +74,6 @@ This file: Ltime, this is my editor.
 ### 时间统计
 <div align="center"> 
     <a href="https://wakatime.com/@L_time">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L_Time&theme=github_dark_dimmed&locale=cn"/> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L_Time&theme=github_dark_dimmed&locale=cn&langs_count=5&range=all_time"/> 
     </a>
 </div>
