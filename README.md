@@ -47,6 +47,9 @@ This file: Ltime, this is my editor.
 	```
 ## Some Interesting？
 
+### 博客！
+[传送门！](https://l-time.github.io)
+
 ### 想挂点Repo：
 
 **这里没有东西哦？等等再来吧？**
