@@ -14,11 +14,9 @@ This file: Ltime, this is my editor.
 <img align="right" src="https://mc-heads.net/head/Leave_Time" alt="Leave_Time">
 
 - 学生？
-- ~~老师？~~
 - 需要天使的互联网宅宅？
 - 只想睡觉的废物？
 - 喜欢玩Minecraft？
-- 音游苦手？
 - And more……？
 
 ## What?
@@ -47,8 +45,6 @@ This file: Ltime, this is my editor.
 	```
 ## Some Interesting？
 
-### 博客！
-[传送门！](https://l-time.github.io)
 
 ### 想挂点Repo：
 
